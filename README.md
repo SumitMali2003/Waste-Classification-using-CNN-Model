@@ -65,7 +65,8 @@ This script will process the images in the `TRAIN` directory, visualize the dist
 
 Upon running the script, you will see a pie chart visualizing the distribution of the images across the two categories, **Organic** and **Recyclable**. Below is an example output of the visualization:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8f2d4d5d-de05-4fc6-b907-1cb5b314f82e)
+
 
 ### Example of Distribution of Categories
 
